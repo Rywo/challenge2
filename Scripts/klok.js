@@ -31,7 +31,7 @@ function dayTime() {
         document.getElementById("navigation").style.opacity = "0.8";
         document.getElementById("navigation").style.color = "#1A5276";
         document.getElementById('momentOfTheDay').innerHTML =
-        "Daytime"
+        "Day-time"
         document.getElementById("momentOfTheDay").style.backgroundColor = "#E5E7E9";
         document.getElementById("momentOfTheDay").style.color = "#1A5276";
     }
